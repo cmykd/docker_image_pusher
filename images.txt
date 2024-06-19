@@ -1,2 +1,2 @@
 elastic/filebeat:8.14.1
-nastools
+python
